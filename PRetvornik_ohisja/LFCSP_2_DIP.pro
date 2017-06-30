@@ -1,4 +1,4 @@
-update=29.6.2017 10:50:42
+update=pet 30 jun 2017 23:48:30 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -59,3 +57,6 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=adcmp572
+LibName31=LFCSP_2_DIP-cache
+[general]
+version=1
